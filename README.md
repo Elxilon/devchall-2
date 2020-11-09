@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Not Found</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://silly-bell-f7fbc5.netlify.app/">
+    <a href="https://clever-hypatia-da7bf0.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/L5EWuJyFWlf0l6fMrrfJ">
+    <a href="https://devchallenges.io/solutions/la5rnF9g25Sg8cwBrsbh">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -36,19 +36,21 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/Elxilon/devchall-1/main/preview.PNG)
+![screenshot](https://raw.githubusercontent.com/Elxilon/devchall-2/main/img/preview.PNG)
 
-- <a href="https://silly-bell-f7fbc5.netlify.app/">
+- <a href="https://clever-hypatia-da7bf0.netlify.app/">
       Where can I see your demo?
   </a>
 
 - What was your experience?
 
-  First time I made a project fully by my-self without any help, before this I follow some online tutorials.
+  I experiment for the first time the grid display and sass on this project. Not the best approach, but I'm glad it works. The only thing I used to help me was finding on the internet, the "writing-mode" properties to set it vertical.
+
+  In few years, I'll enjoy to see my "beginner works" ! :)
 
 - What have you learned/improved?
 
-  I've improved the way I understand how flex-box works, and try my best to fixed the issue I had with the picture and the way each part use 50% of the screen (image and text).
+  In addition, to the "writing mode" properties, I forced myself to use SASS. I recognize we can do better stuff with this, I'll continue to perform myself using SASS better and better each time ! :)
 
 ## Features
 
